@@ -21,8 +21,9 @@
 .search{
     background-color: #353535;
     padding: 1em;
+    padding-left: 30px !important;
     width: 100px;
-    
+    font-weight: bold;
     color: rgb(162, 159, 159);
     border-radius: 1em;
 }
