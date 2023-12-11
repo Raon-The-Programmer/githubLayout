@@ -1,0 +1,57 @@
+.nav{
+    background-color: #2F3D46;
+
+}
+.github{
+    font-weight: bold;
+    color: white;
+    font-size: larger;
+    
+}
+
+.content{
+    background-color: #CAD2C5;
+    height: 682px;
+}
+
+.font{
+    font-size: xx-large;
+    color: white;
+}
+.search{
+    background-color: #353535;
+    padding: 1em;
+    width: 100px;
+    
+    color: rgb(162, 159, 159);
+    border-radius: 1em;
+}
+.box{
+    margin:10%;
+    margin-left: 20%;
+    width: 60%;
+    height: 80%;
+    background-color: #353535;
+    border-radius: 2em;
+}
+.mid{
+    margin-top:100px !important;
+    
+}
+.col-3{
+    background-color: #353535;
+    margin: 3%;
+    margin-top: 50%;
+    height: 10rem;
+    margin-top: 10%;
+    border-radius: 1em
+
+}
+.last{
+    background-color: #353535;
+    width: 89% !important;
+    height: 20%;
+    margin-left: 2%;
+    margin-top:6%;
+    border-radius: 1em;
+}
